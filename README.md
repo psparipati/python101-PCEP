@@ -1,0 +1,1 @@
+This is a collection of some of my assignments from when I first started in coding, and represent my practice for the PCEP. During that time, I was in Python coding classes taught by Prof. Siva Jasthi from Metropolitan State University.
