@@ -1,1 +1,2 @@
+# python101-PCEP
 This is a collection of some of my assignments from when I first started coding, representing my PCEP practice. The projects here exist as Jupyter Notebooks and Python files. During that time, I was in Python coding classes taught by Prof. Siva Jasthi from Metropolitan State University. I learned file processing, functions, iteration, variable types, and conditional statements. I was in these classes from September 2022 to May 2023.
